@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DialerApp</string>
+    <string name="prompt_email">Email</string>
+    <string name="create_new">Create_new</string>
+    <string name="login">Login</string>
+    <string name="messageWithLink"><a href="http://max-fon.dyndns.org/billing/callc/signup_start/65f576b811/">Register</a></string>
+    <string name="password_error">errorPassword</string>
+    <string name="error_invalid_password">invalid_password</string>
+    <string name="username">UserName</string>
+    <string name="doamin">max-fon.dyndns.org</string>
+
+<!--    <string name="app_name">My Application</string>-->
+<!--    <string name="prompt_email">Email</string>-->
+<!--    <string name="prompt_password">Password</string>-->
+<!--    <string name="login">Log In</string>-->
+<!--    <string name="create_new">Click here for register</string>-->
+    <string name="not_register">Not Register?</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter a phone number</string>
+    <string name="email_error">Please enter a email address</string>
+    <string name="error_invalid_email">Email is not valid</string>
+<!--    <string name="password_error">Please enter a password</string>-->
+<!--    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>-->
+</resources>
